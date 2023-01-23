@@ -29,3 +29,4 @@ python3 convertToPDF.py <folder>
 ```
 
 <folder> is the path to the folder that contains the images to be merged into a pdf.
+The new file will be placed in the images' folder.
